@@ -1,0 +1,14 @@
+#post{
+    margin-top: 20%;
+    height: auto;
+    margin-left: 15%;
+    box-shadow: 10px blue;
+    background-color: white;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#img{
+    height: 10px;
+    width:10px;
+}
